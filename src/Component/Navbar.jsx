@@ -24,6 +24,7 @@ const Navbar = ({ cart, setCart }) => {
 
                 <div className="nav-category">
                     <ul>
+                        <Link to="/"><li>Home</li></Link>
                         <Link to="/men"><li>MEN</li></Link>
                         <Link to="/women"><li>WOMEN</li></Link>
                         <Link to="/kids"><li>KIDS</li></Link>
