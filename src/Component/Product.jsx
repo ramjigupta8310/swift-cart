@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import "./Product.css";
 import { Link } from 'react-router-dom';
 import { GrFormPrevious } from "react-icons/gr";
@@ -28,6 +28,11 @@ const Product = ({ items }) => {
             setCurrentPage(currentPage - 1);
         }
     };
+
+    // **Reset current page to 1 when items (filtered data) change**
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [items]);
 
     return (
         <>
