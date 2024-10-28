@@ -1395,7 +1395,7 @@ export const casualStyles = [
     title: "Berrylush",
     description: "Women Bodycon Mini Dress",
     imgSrc: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/KjJ1vEr0_83fd65ec4c334d6396062feadb585c25.jpg",
-    imgSrc2: "hhttps://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/H9I28W1l_84a5e29db0b743509b9150440b04fb37.jpg",
+    imgSrc2: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/yoz27q3A_0d87659460ad4a54848cb45c7c066154.jpg",
     imgSrc3: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/KUQrwZZW_2386607a99c04a69add3916cc724aa44.jpg",
     imgSrc4: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/KjJ1vEr0_83fd65ec4c334d6396062feadb585c25.jpg",
     imgSrc5: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/1/NcDmydT7_84a2eb3bca1842359d6e7e74bc5675d9.jpg",
